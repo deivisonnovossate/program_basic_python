@@ -1,0 +1,2 @@
+# Softwares desenvolvidos nas atividades do Centro Universitário UNINTER do Curso Análise de Sistemas
+# Criados por Deivison Novossate como resolução dos problemas da atividades de Lógica de programção com foco na linguagem python
